@@ -1,3 +1,5 @@
+This txt file contains my notes on the project description, found at https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/book-recommendation-engine-using-knn
+
 Project Environment and Submission:
 	-> The project is in an ipynb file in the Google Colaboratory environment 
 	-> They want you to submit a link to the notebook after it passes their tests
